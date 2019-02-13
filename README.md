@@ -3,7 +3,7 @@ Includes a Puppet Master plus a Development, Testing, and Production Node
 
 NOTES:
 
-This is the current PE 2017.x.x LTS support archive. Only use this PE for 2016.x.x work unless
+This is the current PE 2018.1.7 LTS support archive. Only use this PE for 2018.x.x work unless
 you have a specific version need.
 
 It should also be noted that I have had intermittent issues with Virtualbox/Vagrant/PE in this
