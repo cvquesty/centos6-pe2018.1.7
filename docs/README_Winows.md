@@ -32,11 +32,11 @@ In previous releases, vagrant-pe_build had issues with downloading Puppet Enterp
 
 In the past, you would need to download the PE Package manually here:
 
-	https://pm.puppetlabs.com/puppet-enterprise/2016.4.15/puppet-enterprise-2016.4.15-el-7-x86_64.tar.gz
+	https://pm.puppetlabs.com/puppet-enterprise/2018.1.7/puppet-enterprise-2018.1.7-el-7-x86_64.tar.gz
 
 - or -
 
-	https://pm.puppetlabs.com/puppet-enterprise/2016.4.15/puppet-enterprise-2016.4.15-el-6-x86_64.tar.gz
+	https://pm.puppetlabs.com/puppet-enterprise/2018.1.7/puppet-enterprise-2018.1.7-el-6-x86_64.tar.gz
 
 Move it to the C:\Users\username\\.vagrant.d\\.pe_build directory.
 
@@ -44,11 +44,11 @@ Move it to the C:\Users\username\\.vagrant.d\\.pe_build directory.
 
 In Windows Explorer, navigate to a location within which to create your project.  From there, clone the git repository.
 
-	git clone https://github.com/cvquesty/centos6-pe2016.4.15LTS.git
+	git clone https://github.com/cvquesty/centos6-pe2018.1.7LTS.git
 
 **Change to the Directory and Launch Vagrant**
 
-	cd centos6-pe2016.4.15LTS
+	cd centos6-pe2018.1.7LTS
 	vagrant up
 
 **Notes:**
